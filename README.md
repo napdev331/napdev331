@@ -1,4 +1,5 @@
-![Group 2bannar](https://drive.google.com/file/d/12R_csqwCYsuHjLaBIE1vbz7YrEhWOeqk/view?usp=share_link)
+![github-header-image](https://user-images.githubusercontent.com/121527004/225744332-c5ec5aea-f884-497c-a260-ab817bf8cfd5.png)
+
 
 
 ### Hi there 👋 This is Naphtali Reina.
@@ -12,8 +13,6 @@ looking for some hybrid platforms like Flutter and React native.
 ## Skills: Swift / SwiftUI / Kotlin / Java / ReactNative / Flutter / Objective-C / AngularJS / ReactJS / Laravel / Python / Django
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/napdev331 )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>]()  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=napdev331)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=napdev331)  
 
