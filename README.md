@@ -1,3 +1,6 @@
+![Group 2bannar](https://drive.google.com/file/d/12R_csqwCYsuHjLaBIE1vbz7YrEhWOeqk/view?usp=share_link)
+
+
 ### Hi there 👋 This is Naphtali Reina.
 #### I am a web and mobile full stack developer.
 
